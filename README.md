@@ -28,10 +28,10 @@
   <a href="https://twitter.com/adoniashibeste" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adoniashibeste" height="30" width="40" />
   </a>
-  <a href="[https://linkedin.com/in/adonias hibeste](https://www.linkedin.com/in/adonias-hibeste-277288237/)" target="_blank">
+  <a href="https://www.linkedin.com/in/adonias-hibeste-277288237/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adonias hibeste" height="30" width="40" />
   </a>
-  <a href="[https://www.facebook.com/adonias2112](https://www.facebook.com/adonias2112?mibextid=ZbWKwL)" target="_blank">
+  <a href="https://www.facebook.com/adonias2112?mibextid=ZbWKwL" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adonias hibeste" height="30" width="40" />
   </a>
   <a href="https://instagram.com/adonias_2112" target="_blank">

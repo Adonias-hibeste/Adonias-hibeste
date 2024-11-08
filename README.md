@@ -16,8 +16,9 @@
 ### 🚀 About Me
 - 🌱 Currently diving into **Django**.
 - 💬 Ask me about **Flutter and Laravel**.
-- 👨‍💻 Check out my projects: [Portfolio](https://adonias-hibeste.github.io/AdoniasHibeste.github.io/)
+- 👨‍💻 Check out my projects: [Website Portfolio](https://adonias-hibeste-website.vercel.app/)
 - 📫 Reach me at **adoniassahilehibeste12@gmail.com**
+- 📄 Know about my experiences [Resume](https://pdfupload.io/docs/ad6a8022)
 - ⚡ Fun Fact: **Why do programmers prefer dark mode? Because light attracts bugs!**
 
 ---

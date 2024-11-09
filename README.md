@@ -18,7 +18,7 @@
 - 💬 Ask me about **Flutter and Laravel**.
 - 👨‍💻 Check out my projects: [Website Portfolio](https://adonias-hibeste-website.vercel.app/)
 - 📫 Reach me at **adoniassahilehibeste12@gmail.com**
-- 📄 Know about my experiences [Resume](https://pdfupload.io/docs/ad6a8022)
+- 📄 Know about my experiences on my [Resume](https://pdfupload.io/docs/ad6a8022)
 - ⚡ Fun Fact: **Why do programmers prefer dark mode? Because light attracts bugs!**
 
 ---

@@ -9,8 +9,8 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently diving into **Django**.
-- 💬 Ask me about **Flutter and Laravel**.
+- 🌱 Currently diving into **Laravel**.
+- 💬 Ask me about **Flutter and React Native**.
 - 👨‍💻 Check out my projects: [Website Portfolio](https://adonias-hibeste-website.vercel.app/)
 - 📫 Reach me at **adoniassahilehibeste12@gmail.com**
 - 📄 Know about my experiences on my [Resume](https://pdfupload.io/docs/ad6a8022)

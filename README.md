@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1656679844338?e=1736380800&v=beta&t=Kn92CP2enrFBh0dFztxNlSCEjgvM26UQAJwnl5H4uvo">
+  <img alt="Coding" width="400" src="[https://media.licdn.com/dms/image/v2/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1656679844338?e=1736380800&v=beta&t=Kn92CP2enrFBh0dFztxNlSCEjgvM26UQAJwnl5H4uvo](https://iconscout.com/lottie-animation/male-coder-animation_6415344)">
 </p>
 
 ---

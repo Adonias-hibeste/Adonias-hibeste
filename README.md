@@ -82,11 +82,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adonias-hibeste&show_icons=true&locale=en&layout=compact" alt="adonias-hibeste top languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adonias-hibeste&show_icons=true&locale=en" alt="adonias-hibeste GitHub stats" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adonias-hibeste&" alt="adonias-hibeste GitHub streak" />
 </p>

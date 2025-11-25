@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently diving into **Laravel**.
+- 🌱 Currently diving into **Laravel and Nodejs**.
 - 💬 Ask me about **Flutter and React Native**.
 - 👨‍💻 Check out my projects: [Website Portfolio](https://adonias-hibeste-website.vercel.app/)
 - 📫 Reach me at **adoniassahilehibeste12@gmail.com**

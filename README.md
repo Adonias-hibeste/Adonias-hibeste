@@ -10,9 +10,8 @@
 
 ### 🚀 About Me
 - 💬 Ask me about **Flutter, React Native and Swift**.
-- 👨‍💻 Check out my projects: [Website Portfolio](https://adonias-hibeste-website.vercel.app/)
+- 👨‍💻 Check out my projects: [Website Portfolio](https://adonias-portfolio.vercel.app/)
 - 📫 Reach me at **adoniassahilehibeste12@gmail.com**
-- 📄 Know about my experiences on my [Resume](https://pdfupload.io/docs/ad6a8022)
 - ⚡ Fun Fact: **Why do programmers prefer dark mode? Because light attracts bugs!**
 
 ---
